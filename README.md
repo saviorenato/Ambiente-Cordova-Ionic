@@ -2,9 +2,6 @@
 
 #!/bin/bash
 # Ubuntu Developer Script For Ionic Framework
-# Created by Nic Raboy
-# https://www.nraboy.com
-#
 #
 # Downloads and configures the following:
 #

@@ -4,8 +4,13 @@
 # Downloads and configures the following:
 
    Java JDK
+#   
    Apache Ant
+#
    Android
+#
    NPM
+#   
    Apache Cordova
+#   
    Ionic Framework
